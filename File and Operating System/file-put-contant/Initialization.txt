@@ -1,0 +1,5 @@
+hi,
+Initialization means creating a variable and assigning it a value for the first time.
+
+It is the starting point for any variable — before you can use a variable, it must be initialized.
+
