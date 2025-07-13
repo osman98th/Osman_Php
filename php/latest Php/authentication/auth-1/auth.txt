@@ -1,2 +1,0 @@
-demo,demo@123
-admin,admin@123
