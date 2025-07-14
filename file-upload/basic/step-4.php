@@ -11,7 +11,7 @@ $img = "image/";
 $kb=$file_size/1024;
 
 
-  if($kb>400){ 
+  if($kb>500){ 
   echo "File is too large";
   } else { 
     move_uploaded_file($tmp_file,$img.$file_name);
